@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a023c905-22f2-4314-9083-cfceccb270ad" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.rspec" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.rubocop.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CODE_OF_CONDUCT.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DayFinder.gemspec" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Gemfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LICENSE.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Rakefile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/console" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/setup" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/DayFinder.rb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/DayFinder/version.rb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spec/DayFinder_spec.rb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spec/spec_helper.rb" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1vTq5Iax0Go21U7z9Iz5SKzXLMV" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SpringUtil" SPRING_PRE_LOADER_OPTION="true" RAKE_SPRING_PRE_LOADER_OPTION="true" RAILS_SPRING_PRE_LOADER_OPTION="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a023c905-22f2-4314-9083-cfceccb270ad" name="Default Changelist" comment="" />
+      <created>1626596242263</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1626596242263</updated>
+      <workItem from="1626596243999" duration="363000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
