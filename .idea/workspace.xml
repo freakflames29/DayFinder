@@ -1,10 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a023c905-22f2-4314-9083-cfceccb270ad" name="Default Changelist" comment="">
+    <list default="true" id="a023c905-22f2-4314-9083-cfceccb270ad" name="Default Changelist" comment="Readme updated">
+      <change afterPath="$PROJECT_DIR$/DayFinder-0.2.0.gem" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DayFinder.gemspec" beforeDir="false" afterPath="$PROJECT_DIR$/DayFinder.gemspec" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/lib/DayFinder.rb" beforeDir="false" afterPath="$PROJECT_DIR$/lib/DayFinder.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/DayFinder/version.rb" beforeDir="false" afterPath="$PROJECT_DIR$/lib/DayFinder/version.rb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,18 +16,72 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1vTq5Iax0Go21U7z9Iz5SKzXLMV" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
     <option name="showMembers" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
   </component>
-  <component name="RunManager">
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="gem install hello_rubymine" />
+      <command value="gem install DayFinder-0.1.0.gem" />
+      <command value="gem install DayFinder-0.2.0.gem" />
+    </option>
+  </component>
+  <component name="RunManager" selected="Ruby Console.IRB: DayFinder">
+    <configuration name="IRB: DayFinder" type="IrbRunConfigurationType" factoryName="IRB console" temporary="true">
+      <module name="DayFinder" />
+      <IRB_RUN_CONFIG NAME="RUBY_ARGS" VALUE="" />
+      <IRB_RUN_CONFIG NAME="WORK DIR" VALUE="$MODULE_DIR$" />
+      <IRB_RUN_CONFIG NAME="SHOULD_USE_SDK" VALUE="false" />
+      <IRB_RUN_CONFIG NAME="ALTERN_SDK_NAME" VALUE="" />
+      <IRB_RUN_CONFIG NAME="myPassParentEnvs" VALUE="true" />
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
+      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" track_test_folders="true" runner="rcov" IGNORE_RCOVRT="true" ENABLE_BRANCH_COVERAGE="true" ENABLE_FORKED_COVERAGE="true">
+        <COVERAGE_PATTERN ENABLED="true">
+          <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
+        </COVERAGE_PATTERN>
+      </EXTENSION>
+      <EXTENSION ID="org.jetbrains.plugins.ruby.rails.run.RailsRunConfigurationExtension" SCRATCH_USE_RAILS_RUNNER="false" />
+      <IRB_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="$USER_HOME$/.rbenv/versions/3.0.0/bin/irb" />
+      <IRB_RUN_CONFIG NAME="SCRIPT_ARGS" VALUE="--simple-prompt --nomultiline --nocolorize" />
+      <IRB_RUN_CONFIG NAME="CONSOLE_TYPE" VALUE="IRB" />
+      <method v="2" />
+    </configuration>
+    <configuration name="DayFinder" type="RubyRunConfigurationType" factoryName="Ruby" temporary="true">
+      <module name="DayFinder" />
+      <RUBY_RUN_CONFIG NAME="RUBY_ARGS" VALUE="" />
+      <RUBY_RUN_CONFIG NAME="WORK DIR" VALUE="$MODULE_DIR$/lib" />
+      <RUBY_RUN_CONFIG NAME="SHOULD_USE_SDK" VALUE="false" />
+      <RUBY_RUN_CONFIG NAME="ALTERN_SDK_NAME" VALUE="" />
+      <RUBY_RUN_CONFIG NAME="myPassParentEnvs" VALUE="true" />
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
+      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" track_test_folders="true" runner="rcov" IGNORE_RCOVRT="true" ENABLE_BRANCH_COVERAGE="true" ENABLE_FORKED_COVERAGE="true">
+        <COVERAGE_PATTERN ENABLED="true">
+          <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
+        </COVERAGE_PATTERN>
+      </EXTENSION>
+      <EXTENSION ID="org.jetbrains.plugins.ruby.rails.run.RailsRunConfigurationExtension" SCRATCH_USE_RAILS_RUNNER="false" />
+      <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="$MODULE_DIR$/lib/DayFinder.rb" />
+      <RUBY_RUN_CONFIG NAME="SCRIPT_ARGS" VALUE="" />
+      <method v="2" />
+    </configuration>
     <configuration name="x" type="RubyRunConfigurationType" factoryName="Ruby" temporary="true">
       <RUBY_RUN_CONFIG NAME="RUBY_ARGS" VALUE="" />
       <RUBY_RUN_CONFIG NAME="WORK DIR" VALUE="$USER_HOME$/Desktop" />
@@ -47,6 +102,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Ruby Console.IRB: DayFinder" />
+        <item itemvalue="Ruby.DayFinder" />
+        <item itemvalue="Ruby Console.IRB: DayFinder" />
         <item itemvalue="Ruby.x" />
       </list>
     </recent_temporary>
@@ -60,14 +118,50 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1626596242263</updated>
-      <workItem from="1626596243999" duration="786000" />
+      <workItem from="1626596243999" duration="2156000" />
+      <workItem from="1626788900302" duration="1046000" />
     </task>
+    <task id="LOCAL-00001" summary="code added">
+      <created>1626597241055</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1626597241056</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Readme updated">
+      <created>1626598245018</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1626598245018</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="code added" />
+    <MESSAGE value="Readme updated" />
+    <option name="LAST_COMMIT_MESSAGE" value="Readme updated" />
+  </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/DayFinder@IRB__DayFinder.rcov" NAME="IRB: DayFinder Coverage Results" MODIFIED="1626789698769" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="DayFinder" />
     <SUITE FILE_PATH="coverage/DayFinder@x.rcov" NAME="x Coverage Results" MODIFIED="1626596978455" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Desktop" MODULE_NAME="DayFinder" />
+    <SUITE FILE_PATH="coverage/DayFinder@DayFinder.rcov" NAME="DayFinder Coverage Results" MODIFIED="1626789556515" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lib" MODULE_NAME="DayFinder" />
   </component>
 </project>
