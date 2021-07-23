@@ -4,7 +4,7 @@ DayFinder is a ruby gem. It is used to find the weekday of a given date.
 
 # Syntax
 ```ruby
-DayFinder.find(date,month,year)
+DayFinder.find(day,month,year)
 ```
 
 # Example
