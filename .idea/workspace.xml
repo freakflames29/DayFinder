@@ -5,7 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a023c905-22f2-4314-9083-cfceccb270ad" name="Default Changelist" comment="version.rb updated">
-      <change beforePath="$PROJECT_DIR$/lib/DayFinder.rb" beforeDir="false" afterPath="$PROJECT_DIR$/lib/DayFinder.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,7 +17,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="main" />
+        <entry key="$PROJECT_DIR$" value="feature" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -54,6 +56,7 @@
       <command value="gem install hello_rubymine" />
       <command value="gem install DayFinder-0.1.0.gem" />
       <command value="gem install DayFinder-0.2.0.gem" />
+      <command value="gem install DayFinder-0.3.0" />
     </option>
   </component>
   <component name="RunManager" selected="Ruby.DayFinder">
@@ -140,11 +143,11 @@
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Ruby.DayFinder" />
-        <item itemvalue="Ruby.ruby" />
-        <item itemvalue="Ruby Console.IRB: DayFinder" />
         <item itemvalue="Ruby Console.IRB: DayFinder" />
         <item itemvalue="Ruby.x" />
+        <item itemvalue="Ruby.DayFinder" />
+        <item itemvalue="Ruby.ruby" />
+        <item itemvalue="Ruby.DayFinder" />
       </list>
     </recent_temporary>
   </component>
@@ -210,7 +213,7 @@
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/DayFinder@IRB__DayFinder.rcov" NAME="IRB: DayFinder Coverage Results" MODIFIED="1626789698769" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="DayFinder" />
-    <SUITE FILE_PATH="coverage/rubyprojcts@DayFinder.rcov" NAME="DayFinder Coverage Results" MODIFIED="1636003108088" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lib" MODULE_NAME="DayFinder" />
+    <SUITE FILE_PATH="coverage/rubyprojcts@DayFinder.rcov" NAME="DayFinder Coverage Results" MODIFIED="1636004013604" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lib" MODULE_NAME="DayFinder" />
     <SUITE FILE_PATH="coverage/DayFinder@x.rcov" NAME="x Coverage Results" MODIFIED="1626596978455" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Desktop" MODULE_NAME="DayFinder" />
     <SUITE FILE_PATH="coverage/rubyprojcts@ruby.rcov" NAME="ruby Coverage Results" MODIFIED="1636001830203" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Desktop" MODULE_NAME="DayFinder" />
     <SUITE FILE_PATH="coverage/DayFinder@DayFinder.rcov" NAME="DayFinder Coverage Results" MODIFIED="1626789556515" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lib" MODULE_NAME="DayFinder" />

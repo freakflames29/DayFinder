@@ -15,7 +15,15 @@ puts day
 #output
 # Friday
 ```
+# Find all dates 
+```ruby
+require 'DayFinder'
+days=DayFinder.findAll 11,2021,"sunday"
+print days
+#output
+# [7, 14, 21, 28]
 
+```
 ## Installation
 ```ruby
 gem 'DayFinder'
