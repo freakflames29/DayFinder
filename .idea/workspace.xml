@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a023c905-22f2-4314-9083-cfceccb270ad" name="Default Changelist" comment="Readme updated">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/DayFinder.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/DayFinder.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="a023c905-22f2-4314-9083-cfceccb270ad" name="Default Changelist" comment="version.rb updated">
       <change beforePath="$PROJECT_DIR$/lib/DayFinder.rb" beforeDir="false" afterPath="$PROJECT_DIR$/lib/DayFinder.rb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -178,7 +175,14 @@
       <option name="project" value="LOCAL" />
       <updated>1626598245018</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="version.rb updated">
+      <created>1636003537429</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1636003537429</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -201,7 +205,8 @@
     <MESSAGE value="code added" />
     <MESSAGE value="Readme updated" />
     <MESSAGE value="findall days feature" />
-    <option name="LAST_COMMIT_MESSAGE" value="findall days feature" />
+    <MESSAGE value="version.rb updated" />
+    <option name="LAST_COMMIT_MESSAGE" value="version.rb updated" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/DayFinder@IRB__DayFinder.rcov" NAME="IRB: DayFinder Coverage Results" MODIFIED="1626789698769" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="DayFinder" />
