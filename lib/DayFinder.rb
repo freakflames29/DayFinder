@@ -71,5 +71,5 @@ module DayFinder
      dayslist
   end
 end
-puts DayFinder.find 1,2,2020
-puts DayFinder.findAll 2, 2020, "monday"
+puts DayFinder.find 29,2,2020
+puts DayFinder.findAll 2, 2020, "saturday"

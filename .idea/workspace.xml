@@ -5,6 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a023c905-22f2-4314-9083-cfceccb270ad" name="Default Changelist" comment="Readme updated">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/DayFinder.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/DayFinder.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/lib/DayFinder.rb" beforeDir="false" afterPath="$PROJECT_DIR$/lib/DayFinder.rb" afterDir="false" />
@@ -83,8 +84,8 @@
       <module name="DayFinder" />
       <RUBY_RUN_CONFIG NAME="RUBY_ARGS" VALUE="" />
       <RUBY_RUN_CONFIG NAME="WORK DIR" VALUE="$MODULE_DIR$/lib" />
-      <RUBY_RUN_CONFIG NAME="SHOULD_USE_SDK" VALUE="false" />
-      <RUBY_RUN_CONFIG NAME="ALTERN_SDK_NAME" VALUE="" />
+      <RUBY_RUN_CONFIG NAME="SHOULD_USE_SDK" VALUE="true" />
+      <RUBY_RUN_CONFIG NAME="ALTERN_SDK_NAME" VALUE="rbenv: 3.0.2" />
       <RUBY_RUN_CONFIG NAME="myPassParentEnvs" VALUE="true" />
       <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
       <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
@@ -134,6 +135,12 @@
       <RUBY_RUN_CONFIG NAME="SCRIPT_ARGS" VALUE="" />
       <method v="2" />
     </configuration>
+    <list>
+      <item itemvalue="Ruby.ruby" />
+      <item itemvalue="Ruby.DayFinder" />
+      <item itemvalue="Ruby.x" />
+      <item itemvalue="Ruby Console.IRB: DayFinder" />
+    </list>
     <recent_temporary>
       <list>
         <item itemvalue="Ruby.DayFinder" />
@@ -193,11 +200,12 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="code added" />
     <MESSAGE value="Readme updated" />
-    <option name="LAST_COMMIT_MESSAGE" value="Readme updated" />
+    <MESSAGE value="findall days feature" />
+    <option name="LAST_COMMIT_MESSAGE" value="findall days feature" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/DayFinder@IRB__DayFinder.rcov" NAME="IRB: DayFinder Coverage Results" MODIFIED="1626789698769" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="DayFinder" />
-    <SUITE FILE_PATH="coverage/rubyprojcts@DayFinder.rcov" NAME="DayFinder Coverage Results" MODIFIED="1636002719738" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lib" MODULE_NAME="DayFinder" />
+    <SUITE FILE_PATH="coverage/rubyprojcts@DayFinder.rcov" NAME="DayFinder Coverage Results" MODIFIED="1636003108088" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lib" MODULE_NAME="DayFinder" />
     <SUITE FILE_PATH="coverage/DayFinder@x.rcov" NAME="x Coverage Results" MODIFIED="1626596978455" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Desktop" MODULE_NAME="DayFinder" />
     <SUITE FILE_PATH="coverage/rubyprojcts@ruby.rcov" NAME="ruby Coverage Results" MODIFIED="1636001830203" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Desktop" MODULE_NAME="DayFinder" />
     <SUITE FILE_PATH="coverage/DayFinder@DayFinder.rcov" NAME="DayFinder Coverage Results" MODIFIED="1626789556515" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lib" MODULE_NAME="DayFinder" />
